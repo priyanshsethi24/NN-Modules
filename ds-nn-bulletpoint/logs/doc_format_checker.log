@@ -1,0 +1,54 @@
+2025-01-22 18:36:07,355 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\controllers\module_controller.py - 15 - Starting to check the format for document. [check_document_format] [controllers/module_controller.py:16]
+2025-01-22 18:36:07,365 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 56 - Opening document: C:/Users/AAKASH/Desktop/Stride.ai/New_Testing_File.docx
+2025-01-22 18:36:07,627 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 64 - Document loaded successfully
+2025-01-22 18:36:07,628 - doc_format_checker - ERROR - C:\Users\AAKASH\Desktop\RAGS\controllers\module_controller.py - 46 - 'DocumentFormatReviewer' object has no attribute 'review_document' [check_document_format] [controllers/module_controller.py:36]
+2025-01-22 18:37:32,709 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\app.py - 43 - --- Started app.py ---
+2025-01-22 18:37:40,337 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\controllers\module_controller.py - 15 - Starting to check the format for document. [check_document_format] [controllers/module_controller.py:16]
+2025-01-22 18:37:40,338 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 56 - Opening document: C:/Users/AAKASH/Desktop/Stride.ai/New_Testing_File.docx
+2025-01-22 18:37:40,406 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 64 - Document loaded successfully
+2025-01-22 18:37:40,408 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 163 - Starting complete document review
+2025-01-22 18:37:40,408 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 80 - Starting bullet point check
+2025-01-22 18:37:40,409 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 89 - Opening document for bullet point check: C:\Users\AAKASH\Desktop\Stride.ai\New_Testing_File.docx
+2025-01-22 18:37:49,280 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 142 - Completed bullet point check. Found 11 errors
+2025-01-22 18:37:52,088 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 172 - Document review completed. Total errors found: 11
+2025-01-22 18:37:52,089 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\controllers\module_controller.py - 33 - Completed the check for format. [check_document_format] [controllers/module_controller.py:35]
+2025-01-22 18:39:20,804 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\app.py - 43 - --- Started app.py ---
+2025-01-22 18:39:28,514 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\controllers\module_controller.py - 15 - Starting to check the format for document. [check_document_format] [controllers/module_controller.py:16]
+2025-01-22 18:39:28,516 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 56 - Opening document: C:/Users/AAKASH/Desktop/Stride.ai/New_Testing_File.docx
+2025-01-22 18:39:28,585 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 64 - Document loaded successfully
+2025-01-22 18:39:28,586 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 163 - Starting complete document review
+2025-01-22 18:39:28,587 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 80 - Starting bullet point check
+2025-01-22 18:39:28,588 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 89 - Opening document for bullet point check: C:\Users\AAKASH\Desktop\Stride.ai\New_Testing_File.docx
+2025-01-22 18:39:31,596 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 142 - Completed bullet point check. Found 11 errors
+2025-01-22 18:39:34,555 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 172 - Document review completed. Total errors found: 11
+2025-01-22 18:39:34,556 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\controllers\module_controller.py - 33 - Completed the check for format. [check_document_format] [controllers/module_controller.py:35]
+2025-01-22 18:41:11,400 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\app.py - 43 - --- Started app.py ---
+2025-01-22 18:41:20,279 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\controllers\module_controller.py - 15 - Starting to check the format for document. [check_document_format] [controllers/module_controller.py:16]
+2025-01-22 18:41:20,281 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 57 - Opening document: C:/Users/AAKASH/Desktop/Stride.ai/New_Testing_File.docx
+2025-01-22 18:41:20,347 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 65 - Document loaded successfully
+2025-01-22 18:41:20,348 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 164 - Starting complete document review
+2025-01-22 18:41:20,349 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 81 - Starting bullet point check
+2025-01-22 18:41:20,349 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 90 - Opening document for bullet point check: C:\Users\AAKASH\Desktop\Stride.ai\New_Testing_File.docx
+2025-01-22 18:41:27,415 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 143 - Completed bullet point check. Found 11 errors
+2025-01-22 18:41:30,209 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 173 - Document review completed. Total errors found: 11
+2025-01-22 18:41:30,209 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\controllers\module_controller.py - 33 - Completed the check for format. [check_document_format] [controllers/module_controller.py:35]
+2025-01-22 18:42:06,537 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\app.py - 43 - --- Started app.py ---
+2025-01-22 18:44:53,278 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\controllers\module_controller.py - 15 - Starting to check the format for document. [check_document_format] [controllers/module_controller.py:16]
+2025-01-22 18:44:53,281 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 57 - Opening document: C:/Users/AAKASH/Desktop/Stride.ai/New_Testing_File.docx
+2025-01-22 18:44:53,397 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 65 - Document loaded successfully
+2025-01-22 18:44:53,400 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 164 - Starting complete document review
+2025-01-22 18:44:53,401 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 81 - Starting bullet point check
+2025-01-22 18:44:53,401 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 90 - Opening document for bullet point check: C:\Users\AAKASH\Desktop\Stride.ai\New_Testing_File.docx
+2025-01-22 18:45:00,560 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 143 - Completed bullet point check. Found 11 errors
+2025-01-22 18:45:03,079 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 173 - Document review completed. Total errors found: 11
+2025-01-22 18:45:03,082 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\controllers\module_controller.py - 33 - Completed the check for format. [check_document_format] [controllers/module_controller.py:35]
+2025-01-22 18:45:10,412 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\controllers\module_controller.py - 15 - Starting to check the format for document. [check_document_format] [controllers/module_controller.py:16]
+2025-01-22 18:45:10,417 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 57 - Opening document: C:/Users/AAKASH/Desktop/Stride.ai/New_Testing_File.docx
+2025-01-22 18:45:10,529 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 65 - Document loaded successfully
+2025-01-22 18:45:10,530 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 164 - Starting complete document review
+2025-01-22 18:45:10,531 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 81 - Starting bullet point check
+2025-01-22 18:45:10,532 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 90 - Opening document for bullet point check: C:\Users\AAKASH\Desktop\Stride.ai\New_Testing_File.docx
+2025-01-22 18:45:17,135 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 143 - Completed bullet point check. Found 11 errors
+2025-01-22 18:45:19,679 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\scripts\bullet_points_check.py - 173 - Document review completed. Total errors found: 11
+2025-01-22 18:45:19,681 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\controllers\module_controller.py - 33 - Completed the check for format. [check_document_format] [controllers/module_controller.py:35]
+2025-01-22 18:46:29,570 - doc_format_checker - INFO - C:\Users\AAKASH\Desktop\RAGS\app.py - 43 - --- Started app.py ---
